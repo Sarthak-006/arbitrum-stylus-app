@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Copy",
+    "feather": "Copy",
+    "hasText": true,
+    "alwaysOn": true,
+    "commands": ["copyAll"],
+    "style": {"top": "0rem", "right": "0.4rem"}
+  },
+  {
+    "name": "Run",
+    "feather": "RefreshCw",
+    "primary": true,
+    "hasText": true,
+    "showWithIcon": true,
+    "alwaysOn": true,
+    "commands": ["submit"],
+    "style": {"bottom": "0rem", "right": "0.4rem"}
+  }
+]
